@@ -9,7 +9,7 @@ python = "^3.8"
 single-source = "^0.2.0"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^6.2"
 black = "^21.9b0"
 pyproject-flake8 = "^0.0.1-alpha.2"
 mypy = "^0.910"
